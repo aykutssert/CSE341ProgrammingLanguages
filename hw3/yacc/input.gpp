@@ -1,0 +1,6 @@
+;; helloworld.g++
+(+ 1b1 2b1)
+(def sum x y (+ x y))
+(sum 44b1 6b1)
+(* 4b1 6b1)
+(exit)
